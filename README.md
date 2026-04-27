@@ -92,4 +92,19 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
+---
+
+## Acknowledgements
+
+PHA-IDE stands on the shoulders of amazing open-source projects. Special thanks to:
+
+| Project | Author | Contribution |
+|---|---|---|
+| [heretic](https://github.com/p-e-w/heretic) | [@p-e-w](https://github.com/p-e-w) | Inspired the `pha-heretic` code processing engine |
+| [agency](https://github.com/msitarzewski/agency) | [@msitarzewski](https://github.com/msitarzewski) | Inspired the `pha-agency` AI agents architecture |
+| [agency-agents](https://github.com/msitarzewski/agency-agents) | [@msitarzewski](https://github.com/msitarzewski) | Source of inspiration for the 150+ specialized agents library |
+| [Visual Studio Code](https://github.com/microsoft/vscode) | Microsoft | Core IDE foundation — MIT License |
+
+> A huge thank you to all these incredible developers for their open-source contributions that made PHA-IDE possible. ❤️
+
 <p align="center">Built with passion by <a href="https://github.com/fagera99">fagera99</a></p>
