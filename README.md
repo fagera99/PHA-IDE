@@ -100,8 +100,7 @@ PHA-IDE stands on the shoulders of amazing open-source projects. Special thanks 
 | --- | --- | --- |
 | [heretic](https://github.com/p-e-w/heretic) | [@p-e-w](https://github.com/p-e-w) | Inspired the `pha-heretic` code processing engine |
 | [agency](https://github.com/msitarzewski/agency) | [@msitarzewski](https://github.com/msitarzewski) | Inspired the `pha-agency` AI agents architecture |
-| [agency-agents](https://github.com/msitarzewski/agency-agents) | [@msitarzewski](https://github.com/msitarzewski) | Source of inspiration for the 150+ specialized agents library |
-| [Visual Studio Code](https://github.com/microsoft/vscode) | Microsoft | Core IDE foundation — MIT License |
+ [Visual Studio Code](https://github.com/microsoft/vscode) | Microsoft | Core IDE foundation — MIT License |
 | [pentagi](https://github.com/vxcontrol/pentagi) | [@vxcontrol](https://github.com/vxcontrol) | Inspired the `pha-pentagi` autonomous task runner & agentic workflows |
 
 > A huge thank you to all these incredible developers for their open-source contributions that made PHA-IDE possible. ❤️
