@@ -1,0 +1,72 @@
+# Dependencies
+node_modules/
+extensions/*/node_modules/
+
+# Build outputs
+out/
+dist/
+build/
+.build/
+
+# VS Code compiled extensions
+extensions/*/out/
+extensions/*/dist/
+
+# Compiled binaries
+*.vsix
+*.exe
+*.dll
+*.node
+
+# Cache & temp
+.cache/
+.tmp/
+tmp/
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large media
+*.mp4
+*.mov
+*.avi
+*.zip
+*.tar.gz
+*.rar
+
+# VS Code test
+.vscode-test/
+.vscode-test-web/
+
+# Electron
+electron/
+
+# yarn
+yarn-error.log
+.yarn/
+
+# npm
+npm-debug.log*
+package-lock.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage
+coverage/
+.nyc_output/
