@@ -1,6 +1,6 @@
 # PHA-IDE
 
-> A powerful, AI-native Integrated Development Environment built on top of [VS Code](https://github.com/microsoft/vscode) — extended with a full suite of intelligent agents, multi-model support, and agentic workflows for developers, teams, and enterprises.
+A powerful, AI-native Integrated Development Environment built on top of [VS Code](https://github.com/microsoft/vscode) — extended with a full suite of intelligent agents, multi-model support, and agentic workflows for developers, teams, and enterprises.
 
 ---
 
@@ -57,7 +57,7 @@ cd PHA-IDE
 npm install
 
 # Launch
-Launch_PHA_IDE.bat   # Windows
+Launch_PHA_IDE.bat  # Windows
 ```
 
 ---
@@ -67,13 +67,13 @@ Launch_PHA_IDE.bat   # Windows
 ```
 PHA-IDE/
 ├── extensions/
-│   ├── pha-agency/       # AI Agents library (150+ agents)
-│   ├── pha-models/       # Multi-model provider
-│   ├── pha-heretic/      # Code processing engine
-│   ├── pha-pentagi/      # Agentic task runner
-│   └── pha-theme/        # Custom UI theme
-├── src/                  # VS Code core (modified)
-└── Launch_PHA_IDE.bat    # Quick launcher
+│   ├── pha-agency/     # AI Agents library (150+ agents)
+│   ├── pha-models/     # Multi-model provider
+│   ├── pha-heretic/    # Code processing engine
+│   ├── pha-pentagi/    # Agentic task runner
+│   └── pha-theme/      # Custom UI theme
+├── src/                # VS Code core (modified)
+└── Launch_PHA_IDE.bat  # Quick launcher
 ```
 
 ---
@@ -89,8 +89,6 @@ PHA-IDE/
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
-
----
 
 ---
 
